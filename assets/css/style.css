@@ -1,0 +1,45 @@
+body {
+	background-image: url('../images/background3.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.logo {
+	background-color: orange;
+	color: white;
+	width: auto;
+	height: 165px;
+	font-size: 36px;
+}
+.col-md-6 {
+	background-color: papayawhip;
+}
+.textDescription {
+	color: green;
+}
+#randomNumGen {
+	background-color: #00FA9A;
+	height: 175px;
+	font-size: 70px;
+	text-align: center;
+	padding-top: 30px;
+}
+#WinsLosses {
+	background-color: #00FFFF;
+	height: 175px;
+	margin-left: 15px;
+}
+.TotalScore {
+	background-color: #20B2AA;
+	padding-top: 10px;
+	color: white;
+}
+.myScore {
+	background-color: #20B2AA;
+	color: white;
+	font-size: 40px;
+	height: 175px;
+}
+.textNumber {
+	text-align: center;
+	font-size: 60px;
+}
