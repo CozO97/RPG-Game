@@ -21,12 +21,13 @@ body {
 	height: 175px;
 	font-size: 70px;
 	text-align: center;
-	padding-top: 30px;
+	padding-top: 20px;
 }
 #WinsLosses {
 	background-color: #00FFFF;
 	height: 175px;
 	margin-left: 15px;
+	font-size: 20px;
 }
 .TotalScore {
 	background-color: #20B2AA;
